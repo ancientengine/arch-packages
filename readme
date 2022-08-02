@@ -1,0 +1,84 @@
+Arch Linux Packages to Install
+
+Initials
+        base
+        linux
+        linux-firmware
+        linux-headers
+        sof-firmware
+        neofetch
+        networkmanager
+
+Extra Kernels
+        linux-lts
+        linux-lts-headers
+        linux-zen
+        linux-zen-headers
+
+Text Editor
+        nano
+        vim
+
+File System
+        dosfstools
+        mtools
+        ntfs-3g
+        exfat-utils
+        fuse
+        fuse2
+        fuseiso
+        gvfs
+
+Bootloader
+        grub
+        efibootmgr
+        intel-ucode
+
+Helper
+         bash-completion
+         pacman-contrib
+         xdg-user-dirs
+
+Services
+        cups
+        openssh
+        samba
+        fstrim.timer (Only for SSD)
+        ufw
+        gufw
+
+Drivers
+        pipewire
+        pipewire-pulse
+        pipewire-alsa
+        pipewire-jack
+        alsa-utils
+        alsa-plugins
+        lib32-pipewire
+        lib32-pipewire-jack
+
+GUI
+        xorg
+        xorg-server
+        xterm xrandr
+
+Development Kit
+        base-devel
+        git
+        wget
+
+Fonts
+        noto-fonts
+        noto-fonts-emoji
+        noto-fonts-cjk
+        noto-fonts-extra
+
+System Software
+        gparted
+        gnome-disk-utility
+        grub-customizer
+
+Internet + Multimedia
+        firefox
+        vlc
+        qbittorrent
